@@ -7,3 +7,4 @@ def display_board
   puts row_end
   puts "   |   |   |"
 end
+display_board
